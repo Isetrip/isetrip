@@ -10,7 +10,7 @@ My roots lie in Back-end Java Development, boasting over half a decade of progra
  - JavaFX
  - Spring-boot
  - JDA
- - Java-Telegram<br/>
+ - Java-Telegram<br\>
  Furthermore, I remain receptive to new ideas and am capable of mastering any library or framework that comes my way.
 ### C
 Currently, my experience in C programming is limited, and my knowledge of various libraries and frameworks is lacking. However, I am eager to expand my skillset and fill any gaps in my expertise through dedicated learning and practice.
