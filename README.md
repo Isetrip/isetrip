@@ -3,9 +3,10 @@
 ## About
 
 
- ### ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) Works <br/>
-  - My roots lie in Back-end Java Development, boasting over half a decade of programming proficiency. Nonetheless, I have also honed my skills with Front-end libraries such as OpenGL and JavaFX.
+ ### Java
+My roots lie in Back-end Java Development, boasting over half a decade of programming proficiency. Nonetheless, I have also honed my skills with Front-end libraries such as OpenGL and JavaFX.
 
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
