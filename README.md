@@ -10,6 +10,7 @@ My roots lie in Back-end Java Development, boasting over half a decade of progra
  - JavaFX
  - Spring-boot
  - JDA
+ - Swing
  - Java-Telegram
  - Furthermore, I remain receptive to new ideas and am capable of mastering any library or framework that comes my way.
 ### C
